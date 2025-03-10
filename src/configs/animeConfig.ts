@@ -17,8 +17,8 @@ interface AnimeConfig {
 
 const animeConfig: AnimeConfig = {
   wajiknime: {
-    siteName: "Valenime",
-    description: "Nonton anime gratis ga pake karcis hanya di Valenime",
+    siteName: "ZannID",
+    description: "Nonton anime gratis ga pake karcis hanya di ZannID",
     logo: "/images/logo.png",
     favicon: "/favicon.png",
     image: "/images/wajiknime.jpg",
